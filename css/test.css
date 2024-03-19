@@ -1,0 +1,18 @@
+*{margin:0; padding:0; box-sizing: border-box;}
+.swiper{
+    width: 50%; height: 500px;
+}
+.swiper .swiper-slide {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.swiper .s1 {
+    background-image: url(../img/jimmy-chang-ACt8ycSzpdE-unsplash.jpg);
+}
+.swiper .s2 {
+    background-image: url(../img/joey-kyber-Pihl8kTtX-s-unsplash.jpg);
+}
+.swiper .s3 {
+    background-image: url(../img/joshua-hibbert-Pn6iimgM-wo-unsplash.jpg);
+}
